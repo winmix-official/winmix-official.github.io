@@ -2190,7 +2190,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: rgba(0, 0, 0, 0.85);
+  color: #ffffff;
   font-weight: 500;
   font-family: "PingFangSC-Medium", "PingFangSC-Regular", "PingFang SC", "Microsoft YaHei", Arial, Helvetica, "WenQuanYi Micro Hei", "tohoma,sans-serif";
   -webkit-transition: all 0.3s linear;
