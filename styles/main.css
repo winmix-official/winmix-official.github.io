@@ -2165,8 +2165,8 @@ html {
 }
 body {
   margin: 0;
-  background-color: #ffffff;
-  color: rgba(0, 0, 0, 0.65);
+  background-color: #000000;
+  color: rgba(255, 255, 255, 0.65);
   font-variant: tabular-nums;
   font-size: 14px;
   font-family: "PingFangSC-Regular", "PingFang SC", "Microsoft YaHei", Arial, Helvetica, "WenQuanYi Micro Hei", "tohoma,sans-serif";
