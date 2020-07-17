@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://winmix-official.github.io</id>
     <title>無铭诚品</title>
-    <updated>2020-07-17T06:41:07.314Z</updated>
+    <updated>2020-07-17T06:43:12.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://winmix-official.github.io"/>
     <link rel="self" href="https://winmix-official.github.io/atom.xml"/>
@@ -10,4 +10,24 @@
     <logo>https://winmix-official.github.io/images/avatar.png</logo>
     <icon>https://winmix-official.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 無铭诚品</rights>
+    <entry>
+        <title type="html"><![CDATA[test2]]></title>
+        <id>https://winmix-official.github.io/post/test2/</id>
+        <link href="https://winmix-official.github.io/post/test2/">
+        </link>
+        <updated>2020-07-17T06:42:50.000Z</updated>
+        <content type="html"><![CDATA[<p>abc<br>
+<img src="https://winmix-official.github.io/post-images/1594968183831.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[test1]]></title>
+        <id>https://winmix-official.github.io/post/test1/</id>
+        <link href="https://winmix-official.github.io/post/test1/">
+        </link>
+        <updated>2020-07-17T06:42:21.000Z</updated>
+        <content type="html"><![CDATA[<p>test<br>
+<img src="https://winmix-official.github.io/post-images/1594968157470.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
 </feed>
